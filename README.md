@@ -40,6 +40,7 @@ This repository consists of solutions to HackerRank **practice** problems using 
 | Introduction |           Pointer            |       [Problem](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)       |    Easy    |  10   |                 [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/C%2B%2B/1.%20Introduction/Pointer.cpp)                  |
 | Introduction |     Arrays Introduction      |      [Problem](https://www.hackerrank.com/challenges/arrays-introduction/problem)       |    Easy    |  10   |          [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/C%2B%2B/1.%20Introduction/Arrays%20Introduction.cpp)           |
 | Introduction |    Variable Sized Arrays     |     [Problem](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)      |    Easy    |  30   |        [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/C%2B%2B/1.%20Introduction/Variable%20Sized%20Arrays.cpp)         |
+|   Strings    |           Strings            |       [Problem](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)       |    Easy    |  10   |                    [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/C%2B%2B/2.%20Strings/Strings.cpp)                    |
 
 ### Python
 
