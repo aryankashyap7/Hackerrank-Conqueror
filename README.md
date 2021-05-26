@@ -2,12 +2,12 @@
     <a href="https://www.hackerrank.com/aryankashyap">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>30 efficient solutions to HackerRank problems
+    <br>31 efficient solutions to HackerRank problems
 </p>
 
 # HackerRank | Unveiling The Solutions
 
-This repository consists of solutions to HackerRank **practice** problems using **C**, **C++** and **Python**. As I'm in learning phase, this repo doesn't have all the solutions present. But as an avid supporter of consistent learning be sure to expect the other solutions soon!
+This repository consists of solutions to HackerRank **practice** problems using **C**, **C++** and **Python**. As I'm in learning phase, this repo doesn't have all the solutions present. But as an avid supporter of consistent learning, be sure to expect the other solutions soon!
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/aryankashyap7/Hackerrank-Conqueror)](https://github.com//aryankashyap7/Hackerrank-Conqueror/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/aryankashyap7/Hackerrank-Conqueror)](https://github.com//aryankashyap7/Hackerrank-Conqueror/archive/master.zip)
@@ -58,7 +58,7 @@ This repository consists of solutions to HackerRank **practice** problems using 
 
 ### Problem Solving
 
-#### [Algorithms]
+_[Algorithms]_
 
 |   Subdomain    |       Challenge       |                                    Problem                                     | Difficulty | Score |                                                                     Solution                                                                     |
 | :------------: | :-------------------: | :----------------------------------------------------------------------------: | :--------: | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -73,6 +73,8 @@ This repository consists of solutions to HackerRank **practice** problems using 
 |     Warmup     | Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) |    Easy    |  10   |  [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Warmup/Birthday%20Cake%20Candles.cpp)   |
 |     Warmup     |    Time Conversion    |    [Problem](https://www.hackerrank.com/challenges/time-conversion/problem)    |    Easy    |  15   |      [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Warmup/Time%20Conversion.cpp)       |
 | Implementation |   Apple and Orange    |   [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem)    |    Easy    |  10   | [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.cpp) |
+| Implementation |   Grading Students    |        [Problem](https://www.hackerrank.com/challenges/grading/problem)        |    Easy    |  10   |   [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Grading%20Students.c)   |
+| Implementation |   Number Line Jumps   |       [Problem](https://www.hackerrank.com/challenges/kangaroo/problem)        |    Easy    |  10   | [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.c)  |
 
 <p align="center">
     <a href="https://www.hackerrank.com/aryankashyap7">
