@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/aryankashyap">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>31 efficient solutions to HackerRank problems
+    <br>33 efficient solutions to HackerRank problems
 </p>
 
 # HackerRank | Unveiling The Solutions
@@ -41,6 +41,7 @@ This repository consists of solutions to HackerRank **practice** problems using 
 | Introduction |     Arrays Introduction      |      [Problem](https://www.hackerrank.com/challenges/arrays-introduction/problem)       |    Easy    |  10   |          [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/C%2B%2B/1.%20Introduction/Arrays%20Introduction.cpp)           |
 | Introduction |    Variable Sized Arrays     |     [Problem](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)      |    Easy    |  30   |        [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/C%2B%2B/1.%20Introduction/Variable%20Sized%20Arrays.cpp)         |
 |   Strings    |           Strings            |       [Problem](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)       |    Easy    |  10   |                    [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/C%2B%2B/2.%20Strings/Strings.cpp)                    |
+|   Classes    |           Structs            |       [Problem](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)        |    Easy    |  10   |                    [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/C%2B%2B/3.%20Classes/Structs.cpp)                    |
 
 ### Python
 
