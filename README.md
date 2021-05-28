@@ -5,7 +5,7 @@
     <br>33 efficient solutions to HackerRank problems
 </p>
 
-# HackerRank | Unveiling The Solutions
+# HackerRank Conqueror | Unveiling The Solutions
 
 This repository consists of solutions to HackerRank **practice** problems using **C**, **C++** and **Python**. As I'm in learning phase, this repo doesn't have all the solutions present. But as an avid supporter of consistent learning, be sure to expect the other solutions soon!
 
