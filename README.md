@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/aryankashyap">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>33 efficient solutions to HackerRank problems
+    <br>34 efficient solutions to HackerRank problems
 </p>
 
 # HackerRank Conqueror | Unveiling The Solutions
@@ -76,6 +76,7 @@ _[Algorithms]_
 | Implementation |   Apple and Orange    |   [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem)    |    Easy    |  10   | [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.cpp) |
 | Implementation |   Grading Students    |        [Problem](https://www.hackerrank.com/challenges/grading/problem)        |    Easy    |  10   |   [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Grading%20Students.c)   |
 | Implementation |   Number Line Jumps   |       [Problem](https://www.hackerrank.com/challenges/kangaroo/problem)        |    Easy    |  10   | [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.c)  |
+| Implementation |   Subarray Division   |   [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)    |    Easy    |  10   | [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Subarray%20Division.cpp)  |
 
 <p align="center">
     <a href="https://www.hackerrank.com/aryankashyap7">
