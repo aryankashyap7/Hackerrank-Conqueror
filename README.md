@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/aryankashyap">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>35 efficient solutions to HackerRank problems
+    <br>36 efficient solutions to HackerRank problems
 </p>
 
 # HackerRank Conqueror | Unveiling The Solutions
@@ -56,6 +56,7 @@ This repository consists of solutions to HackerRank **practice** problems using 
 |   Introduction   |         Print Function          |        [Problem](https://www.hackerrank.com/challenges/python-print/problem)         |    Easy    |  20   |             [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Python/1.%20Introduction/Print%20Function.py)              |
 | Basic Data Types |       List Comprehensions       |     [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem)     |    Easy    |  10   |       [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Python/2.%20Basic%20Data%20Types/List%20Comprehensions.py)       |
 |     Strings      |        What's Your Name?        |       [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem)       |    Easy    |  10   |              [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Python/3.%20Strings/Whats%20Your%20Name.py)               |
+|     Strings      |           Capitalize!           |         [Problem](https://www.hackerrank.com/challenges/capitalize/problem)          |    Easy    |  20   |                  [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Python/3.%20Strings/Capitalize!.py)                   |
 
 ### Problem Solving
 
