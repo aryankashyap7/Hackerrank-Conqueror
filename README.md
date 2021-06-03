@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/aryankashyap">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>36 efficient solutions to HackerRank problems
+    <br>39 efficient solutions to HackerRank problems
 </p>
 
 # HackerRank Conqueror | Unveiling The Solutions
@@ -79,6 +79,9 @@ _[Algorithms]_
 | Implementation |   Number Line Jumps   |            [Problem](https://www.hackerrank.com/challenges/kangaroo/problem)             |    Easy    |  10   |   [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Number%20Line%20Jumps.c)   |
 | Implementation |   Subarray Division   |        [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)         |    Easy    |  10   |   [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Subarray%20Division.cpp)   |
 | Implementation | Breaking the Records  | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) |    Easy    |  10   | [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Breaking%20the%20Records.py) |
+| Implementation |      Find Digits      |           [Problem](https://www.hackerrank.com/challenges/find-digits/problem)           |    Easy    |  25   |      [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Find%20Digits.cpp)      |
+| Implementation |    Cut the sticks     |         [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem)          |    Easy    |  25   |   [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Cut%20the%20sticks.cpp)    |
+| Implementation |  Divisible Sum Pairs  |       [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)       |    Easy    |  10   | [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Divisible%20Sum%20Pairs.cpp) |
 
 <p align="center">
     <a href="https://www.hackerrank.com/aryankashyap7">
