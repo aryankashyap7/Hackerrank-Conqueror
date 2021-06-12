@@ -84,7 +84,7 @@ _[Algorithms]_
 | Implementation |    Cut the sticks     |         [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem)          |    Easy    |  25   |   [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Cut%20the%20sticks.cpp)    |
 | Implementation |  Divisible Sum Pairs  |       [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)       |    Easy    |  10   | [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Divisible%20Sum%20Pairs.cpp) |
 | Implementation |    Migratory Birds    |         [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem)         |    Easy    |  10   |    [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Migratory%20Birds.cpp)    |
-| Implementation |     Drawing Book      |          [Problem](https://www.hackerrank.com/challenges/drawing-book/problem)           |    Easy    | 9.60  |      [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Drawing%20Book.py)      |
+| Implementation |     Drawing Book      |          [Problem](https://www.hackerrank.com/challenges/drawing-book/problem)           |    Easy    | 10  |      [Solution](https://github.com/aryankashyap7/Hackerrank-Conqueror/blob/main/Problem%20Solving/Algorithms/Implementation/Drawing%20Book.py)      |
 
 <p align="center">
     <a href="https://www.hackerrank.com/aryankashyap7">
