@@ -7,7 +7,7 @@
 
 # HackerRank Conqueror | Unveiling The Solutions
 
-This repository consists of solutions to HackerRank **practice** problems using **C**, **C++** and **Python**. As I'm in learning phase, this repo doesn't have all the solutions present. But as an avid supporter of consistent learning, be sure to expect the other solutions soon!
+This repository consists of solutions to HackerRank **practice** problems using **C**, **C++** and **Python**. As I'm in learning phase, this repo doesn't have all the solutions present. But as an avid supporter of consistent learning, be sure to expect the other solutions soon! 
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/aryankashyap7/Hackerrank-Conqueror)](https://github.com//aryankashyap7/Hackerrank-Conqueror/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/aryankashyap7/Hackerrank-Conqueror)](https://github.com//aryankashyap7/Hackerrank-Conqueror/archive/master.zip)
