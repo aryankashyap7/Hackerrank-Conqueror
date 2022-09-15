@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://www.hackerrank.com/aryankashyap">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img src="./Badges/HackerRank_wordmark.svg">
     </a>
-    <br>71 efficient solutions to HackerRank problems!  
+    <br>77 efficient solutions to HackerRank problems!  
 </p>
 
 # HackerRank Conqueror | Unveiling The Solutions
@@ -18,6 +18,7 @@ This repository consists of solutions to HackerRank **practice** problems using 
 
 ## HackerRank Badges
 
+![Problem Solving](/Badges/6_Star_Problem_solving.png)
 ![C++](/Badges/5_Star_C++.png)
 ![Python](/Badges/5_Star_Python.png)
 
@@ -28,7 +29,7 @@ This repository consists of solutions to HackerRank **practice** problems using 
 - [Problem Solving](#problem-solving)
 
 <p align="center">
-    <a href="https://www.hackerrank.com/aryankashyap7">
-        <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
+    <a href="https://www.hackerrank.com/aryankashyap7" >
+        <img alt="HackerRank Logo" src="./Badges/emblem.png">
     </a>
 </p>
